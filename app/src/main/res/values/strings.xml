@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CrmApp</string>
+    <string-array name="genero">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="puestoDeTrabajo">
+        <item>Administrativo</item>
+        <item>comercial</item>
+        <item>soporte Informatico</item>
+    </string-array>
+</resources>
